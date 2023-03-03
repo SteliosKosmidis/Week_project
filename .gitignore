@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+st_pass.py
